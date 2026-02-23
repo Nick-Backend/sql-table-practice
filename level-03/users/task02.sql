@@ -1,0 +1,1 @@
+UPDATE users SET updated_at = now() WHERE email = 'user@example.com';

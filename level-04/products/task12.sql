@@ -1,0 +1,3 @@
+DELETE FROM products
+WHERE created_at BETWEEN '2019-01-01' AND '2026-12-31';
+SELECT * FROM products;

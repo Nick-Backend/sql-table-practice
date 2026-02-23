@@ -1,4 +1,1 @@
-SELECT
-    id, username, last_login_at
-FROM users
-WHERE last_login_at BETWEEN '2026-01-01' AND '2026-01-10';
+SELECT * FROM users WHERE created_at BETWEEN '2026-02-22' AND '2026-02-22 23:59:59'; 

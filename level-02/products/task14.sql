@@ -1,0 +1,1 @@
+SELECT * FROM products WHERE stock_quantity > 0 AND price BETWEEN 200 AND 1000 ORDER BY price ASC;

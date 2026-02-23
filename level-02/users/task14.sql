@@ -1,0 +1,1 @@
+SELECT * FROM users ORDER BY id desc LIMIT 20 offset 20;

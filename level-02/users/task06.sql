@@ -1,1 +1,1 @@
-SELECT id, username, last_login_at FROM users ORDER BY last_login_at DESC LIMIT 10;
+SELECT * FROM users ORDER BY created_at DESC LIMIT 10;

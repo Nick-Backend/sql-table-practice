@@ -1,0 +1,1 @@
+SELECT * FROM products ORDER BY created_at DESC LIMIT 25 OFFSET 50;

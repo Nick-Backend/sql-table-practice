@@ -1,2 +1,1 @@
-
-SELECT id, username, email FROM users;
+SELECT * FROM users;
